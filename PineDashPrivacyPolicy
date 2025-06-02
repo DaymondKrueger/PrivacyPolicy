@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: May 28, 2025
+Last updated: June 2, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -80,7 +80,8 @@ While using Our Service, We may ask You to provide Us with certain personally
 identifiable information that can be used to contact or identify You.
 Personally identifiable information may include, but is not limited to:
 
-  * Usage Data
+  * Usage Data  
+  * Usernames provided by You for the purposes of personalization and leaderboard display. These usernames are stored securely using Unity Cloud Save and are not shared with third parties.
 
 Usage Data  
 **********
